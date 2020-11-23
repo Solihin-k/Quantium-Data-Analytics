@@ -7,7 +7,7 @@ You are part of Quantium’s retail analytics team and have been approached by y
 The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
 
 
-<img src="https://c8.alamy.com/comp/DTTE8G/potato-chips-bags-in-a-supermarket-in-toronto-canada-DTTE8G.jpg width="500" height="200"/>
+<img src="https://bwmarija.files.wordpress.com/2012/08/chips-at-supermarket.png" width="400" height="350"/>
 
 ### Data
 
