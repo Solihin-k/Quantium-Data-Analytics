@@ -27,3 +27,6 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 - PROD_NAME (str, product name)
 - PROD_QTY (quantity of product solde per transaction)
 - TOT_SALES (total sales)
+
+### Category Analysis
+
