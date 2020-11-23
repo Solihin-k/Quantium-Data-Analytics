@@ -34,7 +34,7 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 
 ![units per transaction](/charts/Units_per_Transaction.png)
 
-![customer_breakdown](/charts/customer_breakdown.png)
+![customer_breakdown](/charts/customer_breakdown_new.png)
 
 - Mainstream Young Singles & Couples are the primary shopper of chips
 - Young and Older Families make up 26% of Chips shoppes and on average purchase larger baskets (more opportunity)
