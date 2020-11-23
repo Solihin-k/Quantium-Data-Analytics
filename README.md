@@ -53,4 +53,26 @@ You are part of Quantium’s retail analytics team and have been approached by y
 
 ### Data
 
-####
+#### Full Data
+
+- DATE (date of trasaction)
+- STORE_NBR (store of purchase)
+- LYLTY_CARD_NBR (numeric, unique customer identifier)
+- TXN_ID (numeric, unique transaction identifier) 
+- PROD_NBR (numeric, unique product identifier) 
+- PROD_NAME (str, product name)
+- PROD_QTY (quantity of product solde per transaction)
+- TOT_SALES (total sales)
+- PACK_SIZE	(packaging size)
+- BRAND	(chips brand)
+- LIFESTAGE (OLDER FAMILIES, YOUNG FAMILIES, OLDER SINGLES/COUPLES, RETIREES, MIDAGE SINGLES/COUPLES, NEW FAMILIES, YOUNG SINGLES/COUPLES)
+- PREMIUM_CUSTOMER (Budget, Mainstream, Premium)
+
+#### Trial Analysis
+
+Control stores was determined based on the similarity in terms of:
+- Monthly overall sales revenue
+- Monthly number of customers
+
+
+
