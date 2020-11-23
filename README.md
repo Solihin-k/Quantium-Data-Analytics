@@ -28,11 +28,19 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 - PROD_QTY (quantity of product solde per transaction)
 - TOT_SALES (total sales)
 
-### Category Analysis
-
-#### Largest Sales Contributor
+### Customer Analysis
 
 ![sales_breakdown](/charts/Sales_Breakdown.png)
 
 ![units per transaction](/charts/Units_per_Transaction.png)
 
+![customer_breakdown](/charts/customer_breakdown.png)
+
+- Mainstream Young Singles & Couples are the primary shopper of chips
+- Young and Older Families make up 26% of Chips shoppes and on average purchase larger baskets (more opportunity)
+
+- Affluence appears consistent across each individual life stage profile
+- Older and Young Family shoppers purchase the highest avg units per transaction
+
+- Mainstream Young Singles & Couples make up the largest proportion of Chips shoppers
+- Mainstream Retirees also have a significant share
