@@ -74,5 +74,9 @@ Control stores was determined based on the similarity in terms of:
 - Monthly overall sales revenue
 - Monthly number of customers
 
+![control_sales](/charts/control_sales.png)
 
+![control_customers](/charts/control_customers.png)
+
+#### Trial Results
 
