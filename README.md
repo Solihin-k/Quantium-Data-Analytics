@@ -80,3 +80,8 @@ Control stores was determined based on the similarity in terms of:
 
 #### Trial Results
 
+![control_sales_results](/charts/control_sales_results.png)
+
+![control_customers_results](/charts/control_customers_results.png)
+
+During the trial period of Feb to May 2019, the trial store outperformed the control store highlighting the success of the new store layout.
