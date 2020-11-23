@@ -30,3 +30,7 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 
 ### Category Analysis
 
+#### Largest Sales Contributor
+
+![sales breakdown](/charts
+![Term Deposit](/Images/term_deposit.jpg)
