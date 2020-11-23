@@ -44,3 +44,13 @@ The insights from your analysis will feed into the supermarket’s strategic pla
 
 - Mainstream Young Singles & Couples make up the largest proportion of Chips shoppers
 - Mainstream Retirees also have a significant share
+
+
+## Task 2 - Experimentation and uplift testing
+
+You are part of Quantium’s retail analytics team and have been approached by your client, the Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
+
+
+### Data
+
+####
